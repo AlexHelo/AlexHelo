@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there! I'm Alex Helo 👋
+
+[![GitHub Badge](https://img.shields.io/badge/-AlexHelo-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/AlexHelo/)](https://github.com/AlexHelo)
+[![Linkedin Badge](https://img.shields.io/badge/-itsAlexHelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsAlexHelo/)](https://www.linkedin.com/in/itsAlexHelo/)
+[![Gmail Badge](https://img.shields.io/badge/-itsAlexHelo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsAlexHelo@gmail.com)](mailto:itsAlexHelo@gmail.com)
 
 <!--
 **AlexHelo/AlexHelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
