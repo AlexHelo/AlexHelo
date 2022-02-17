@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexHelo&hide=html,shaderlab,css,hlsl,cmake&layout=compact&langs_count=6&exclude_repo=inedWebApp,hypercasual-game)
+![Top Langs]()
 
 
