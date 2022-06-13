@@ -4,8 +4,8 @@ I'm a 21 year old student, pursuing my bachelor's degree in Computer Science and
 
 #### Education 🎓:
 
-MIT 6.S191: Introduction to Deep Learning @ [Massachusetts Institute of Technology](https://www.mit.edu)
-B.S. in Computer Science and Technology @ [Monterrey Institute of Technology](https://tec.mx/en)
+- MIT 6.S191: Introduction to Deep Learning @ [Massachusetts Institute of Technology](https://www.mit.edu)
+- B.S. in Computer Science and Technology @ [Monterrey Institute of Technology](https://tec.mx/en)
 
 #### Experience 💻:
 
