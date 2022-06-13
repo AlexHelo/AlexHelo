@@ -16,11 +16,11 @@ I'm a 21 year old student, pursuing my bachelor's degree in Computer Science and
 
 #### Languages 📚:
 
-:coffee:Java, :snake:Python, **TS** TypeScript, **C** C/C#/C++, :dolphin:SQL, :bird:Swift
+:coffee:Java, :snake:Python, **TS** TypeScript, *C* C/C#/C++, :dolphin:SQL, :bird:Swift
 
 #### Tools & Technologies 🛠️: 
 
-:octocat:GitHub, 🖥️Linux, :whale:Docker, 🌿MongoDB, :green_circle:Node.js, :atom_symbol:React, `</>`HTML5/CSS3, ☁️AWS, 🔵Azure, 🍃Spring/SpringBoot, 🪶Maven, 
+:octocat:GitHub, 🖥️Linux, :whale:Docker, 🌿MongoDB, :green_circle:Node.js, :atom_symbol:React, `</>`HTML5/CSS3, ☁️AWS, 🔵Azure, 🍃Spring/SpringBoot, *M* Maven, 
 
 #### Interests 🧠: 
 
