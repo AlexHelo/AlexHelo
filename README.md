@@ -27,7 +27,7 @@ I'm a 21 year old student, pursuing my bachelor's degree in Computer Science and
 
 - Full-Stack Developement
 - Cybersecurity
-- UI/UX Design
+- Software Archeology
 - Machine Learning
 
 
