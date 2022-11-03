@@ -9,8 +9,8 @@ I'm a 22 year old student, pursuing my bachelor's degree in Computer Science and
 
 #### Experience 💻:
 
-▶️ Current Full-Stack Developer @ [Tripadvisor](https://www.tripadvisor.com)  
-⏪ Former Full-Stack Developer @ [Cisco](https://www.cisco.com)  
+▶️ Current Full-Stack Developer II @ [Tripadvisor](https://www.tripadvisor.com)  
+⏪ Former Ssr. Full-Stack Developer @ [Cisco](https://www.cisco.com)  
 ⏪ Former Full-Stack Developer @ [Travelport](https://www.travelport.com)                                                                                            
 ⏪ Former COE Java & SQL Developer @ [K2View](https://www.k2view.com)  
 ⏪ Former Data Scientist @ [Banorte](https://www.banorte.com)  
