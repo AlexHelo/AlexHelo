@@ -1,6 +1,6 @@
 ### Hey there!  I'm Alex 👋
 
-I'm a 22 year old student, pursuing my bachelor's degree in Computer Science and Technology at [Tecnológico de Monterrey CCM](https://tec.mx/en). I have a strong passion for Software Developement and Cybersecurity. 
+I'm a 22 year old Software Engineer. I have a strong passion for Full Stack Developement, Cybersecurity & Tech Journalism. 
 
 #### Education 🎓:
 
