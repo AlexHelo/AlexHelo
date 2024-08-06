@@ -14,8 +14,7 @@ I'm a 23 year old Software Engineer. I have a strong passion for Full Stack Deve
 ⏪ Former Ssr. Full-Stack Developer @ [Cisco](https://www.cisco.com)  
 ⏪ Former Full-Stack Developer @ [Travelport](https://www.travelport.com)                                                                                            
 ⏪ Former COE Java & SQL Developer @ [K2View](https://www.k2view.com)  
-⏪ Former Data Scientist @ [Banorte](https://www.banorte.com)  
-⏪ Former Cybersecurity & Information Security Developer @ [Banorte](https://www.banorte.com)  
+⏪ Former Data Scientist, Cybersecurity & Information Security Developer @ [Banorte](https://www.banorte.com)  
 
 #### Languages 📚:
 
