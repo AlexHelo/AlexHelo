@@ -9,7 +9,8 @@ I'm a 23 year old Software Engineer. I have a strong passion for Full Stack Deve
 
 #### Experience 💻:
 
-▶️ Current Full-Stack Developer II @ [Tripadvisor](https://www.tripadvisor.com)  
+▶️ Current Software Development Engineer @ [Zillow](https://www.zillow.com)  
+⏪ Former Full-Stack Developer II @ [Tripadvisor](https://www.tripadvisor.com)  
 ⏪ Former Ssr. Full-Stack Developer @ [Cisco](https://www.cisco.com)  
 ⏪ Former Full-Stack Developer @ [Travelport](https://www.travelport.com)                                                                                            
 ⏪ Former COE Java & SQL Developer @ [K2View](https://www.k2view.com)  
