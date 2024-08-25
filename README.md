@@ -1,6 +1,6 @@
 ### Hey there!  I'm Alex 👋
 
-I'm a 23 year old Software Engineer. I have a strong passion for Full Stack Developement, Cybersecurity & Tech Journalism. 
+I'm a 24 year old Software Engineer. I have a strong passion for Full Stack Developement, Cybersecurity & Tech Journalism. 
 
 #### Education 🎓:
 
