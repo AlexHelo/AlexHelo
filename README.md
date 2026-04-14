@@ -1,57 +1,61 @@
-### Hey there!  I'm Alex 👋
+```
+Alex Helo
+Software Engineer. Full-Stack, Cybersecurity, Tech Journalism.
+25 y/o. CDMX.
 
-I'm a 25 year old Software Engineer. I have a strong passion for Full Stack Developement, Cybersecurity & Tech Journalism. 
+---
 
-#### Education 🎓:
+Experience
 
-- MIT 6.S191: Introduction to Deep Learning @ [Massachusetts Institute of Technology](https://www.mit.edu)
-- B.S. in Computer Science and Technology @ [Monterrey Institute of Technology](https://tec.mx/en)
+-> Software Development Engineer II      @ Zillow
+-> Software Engineer II                  @ Tripadvisor
+-> Sr. Software Engineer                 @ Cisco
+-> Software Engineer                     @ Travelport
+-> Software Engineer                     @ K2View
+-> Cybersecurity & Data Science Intern   @ Banorte
 
-#### Experience 💻:
+---
 
-▶️ Current Software Development Engineer @ [Zillow](https://www.zillow.com)  
-⏪ Former Full-Stack Developer II @ [Tripadvisor](https://www.tripadvisor.com)  
-⏪ Former Ssr. Full-Stack Developer @ [Cisco](https://www.cisco.com)  
-⏪ Former Full-Stack Developer @ [Travelport](https://www.travelport.com)                                                                                            
-⏪ Former COE Java & SQL Developer @ [K2View](https://www.k2view.com)  
-⏪ Former Data Scientist, Cybersecurity & Information Security Developer @ [Banorte](https://www.banorte.com)  
+Building
 
-#### Languages 📚:
+- Looqs       -- AI fashion assistant
+- Gradooz     -- university exam prep that doesn't suck
+- [unnamed]   -- three agentic projects, in stealth
+- 2sunrise    -- nearshore software consulting
 
-:coffee:Java, :snake:Python, **TS** TypeScript, *C* C/C#/C++, :dolphin:SQL, :bird:Swift
+---
 
-#### Tools & Technologies 🛠️: 
+Education
 
-:octocat:GitHub, 🖥️Linux, :whale:Docker, 🌿MongoDB, :green_circle:Node.js, :atom_symbol:React, `</>`HTML5/CSS3, ☁️AWS, 🔵Azure, 🍃Spring/SpringBoot, *M* Maven, 
+- MIT 6.S191: Introduction to Deep Learning
+- B.S. Computer Science and Technology, Tecnologico de Monterrey
 
-#### Interests 🧠: 
+---
 
-- Full-Stack Developement
-- Cybersecurity
-- Software Archeology
-- Machine Learning
+Stack
 
+Go . Java . Python . TypeScript . C++ / C# . SQL
+Kafka . Airflow . Kubernetes . Docker . AWS . GCP . Azure
+React . Node.js . Spring Boot . PostgreSQL . MongoDB . Cassandra . Redis
 
-#### Find me on 📫:
+---
 
-- :email: itsalexhelo@gmail.com
-- *in* [Linkedin](https://linkedin.com/in/alexhelo)
+Human Languages
 
+Spanish (native) . English (C2) . German (B2) . Japanese (N5)
 
-<!--
-**AlexHelo/AlexHelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-Stack Development . Cybersecurity . Software Archeology . Machine Learning
 
+---
 
+itsalexhelo@gmail.com
+alexhelo.github.io
+linkedin.com/in/alexhelo
+helo.work
 
+the cv version of me. the other one lives at helo.work
+```
