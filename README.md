@@ -21,7 +21,7 @@ Building
 - Looqs       -- AI fashion assistant
 - Gradooz     -- university exam prep that doesn't suck
 - [unnamed]   -- three agentic projects, in stealth
-- 2sunrise    -- nearshore software consulting
+- 2sunrise    -- product studio in Mexico City
 
 ---
 
