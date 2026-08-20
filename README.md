@@ -1,7 +1,7 @@
 ```
 Alex Helo
 Software Engineer. Full-Stack, Cybersecurity, Tech Journalism.
-25 y/o. CDMX.
+26 y/o. CDMX.
 
 ---
 
